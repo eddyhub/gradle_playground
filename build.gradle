@@ -22,7 +22,7 @@ distributions {
     }
 }
 
+release.useAutomaticVersion = true
 release {
-    useAutomaticVersion = true
     versionPropertyFile = 'gradle.properties'
 }
