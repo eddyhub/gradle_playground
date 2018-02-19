@@ -23,5 +23,6 @@ distributions {
 }
 
 release {
+    useAutomaticVersion = true
     versionPropertyFile = 'gradle.properties'
 }
