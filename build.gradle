@@ -21,3 +21,7 @@ distributions {
         }
     }
 }
+
+release {
+    versionPropertyFile = 'gradle.properties'
+}
